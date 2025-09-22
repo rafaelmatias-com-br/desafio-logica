@@ -43,4 +43,4 @@ O Herói de nome {nome} está no nível de {nivel}
 
 
 ---
-*Este é um projeto simples, mas que demonstra a aplicação prática de conceitos essen
+*Este é um projeto simples, mas que demonstra a aplicação prática de conceitos essenciais da lógica de programação. Sinta-se à vontade para explorar, modificar e melhorar o código!*
